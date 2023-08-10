@@ -1,0 +1,6 @@
+[rspack.entry]
+main = "src/main.js"
+
+[rspack.output]
+path = "dist"
+filename = "bundle-rspack.js"
